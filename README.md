@@ -35,3 +35,8 @@
   ![I can’t belive I just lost the game  Buaaaa](https://github.com/user-attachments/assets/ad53067d-f563-47ad-b0de-bdc67a3a0f9e)
 
 </div>
+
+
+<p align="center">
+  <img src="assets/cubo-3d.gif" width="320" alt="Cubo 3D girando" />
+</p>
